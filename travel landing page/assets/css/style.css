@@ -187,6 +187,12 @@ img{
     font-weight: var(--medium);
 }
 
+.nav_close{
+    position: absolute;
+    top: 1rem;
+    right: 1.5rem;
+}
+
 .nav_link::after{
     content: '';
     width: 0;
