@@ -1,3 +1,3 @@
 # Travel-website
 
-demo : https://travel-landing-page-ivory.vercel.app/
+demo : https://travel-landing-page-nrhbb.vercel.app/
